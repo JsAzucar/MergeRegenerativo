@@ -9,11 +9,7 @@ namespace PruebaMerge
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-            lblResultado.Text = txtNombre.Text + "  dos";
-            lblResultado.Text = txtNombre.Text + "  dos";
-            lblResultado.Text = txtNombre.Text + "  dos";
-            lblResultado.Text = txtNombre.Text + "  dos";
-            lblResultado.Text = txtNombre.Text + "  dos";
+          // Estos son los cambios remotos
             
         }
 
@@ -23,12 +19,7 @@ namespace PruebaMerge
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
-            // Intentar conservar comentarios
- 
-            txtNombre.Text = "Mi nombre el Isamael remoto";
-            txtNombre.Text = "Mi nombre el Isamael remoto";
-            txtNombre.Text = "Mi nombre el Isamael remoto";
+            // Estos son los cambios remotos
         }
     }
 }
