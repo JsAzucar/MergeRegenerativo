@@ -17,9 +17,18 @@ namespace PruebaMerge
             
         }
 
+
+
+
+
         private void Form1_Load(object sender, EventArgs e)
         {
 
+            // Intentar conservar comentarios
+ 
+            txtNombre.Text = "Mi nombre el Isamael remoto";
+            txtNombre.Text = "Mi nombre el Isamael remoto";
+            txtNombre.Text = "Mi nombre el Isamael remoto";
         }
     }
 }
