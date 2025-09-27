@@ -10,6 +10,7 @@ namespace PruebaMerge
         private void btnGuardar_Click(object sender, EventArgs e)
         {
           // Estos son los cambios remotos
+          // No funcionarón los cambios probemos otra ves
             
         }
 
@@ -20,6 +21,7 @@ namespace PruebaMerge
         private void Form1_Load(object sender, EventArgs e)
         {
             // Estos son los cambios remotos
+             // No funcionarón los cambios probemos otra ves
         }
     }
 }
