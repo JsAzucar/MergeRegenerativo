@@ -12,6 +12,8 @@ namespace PruebaMerge
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+              //Quiero tratar de hacer cambios importantes1
+              //Quiero tratar de hacer cambios importantes2
         }
     }
 }
